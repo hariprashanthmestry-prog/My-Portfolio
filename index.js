@@ -19,6 +19,8 @@
         // Mobile menu toggle
        
 // Mobile Menu Toggle
+
+// Mobile Menu Toggle
 const mobileMenu = document.querySelector('.mobile-menu');
 const navUl = document.querySelector('nav ul');
 
@@ -45,6 +47,7 @@ document.querySelectorAll('nav ul a').forEach(link => {
         }
     });
 });
+
 
 
         // Smooth scroll for anchor links
